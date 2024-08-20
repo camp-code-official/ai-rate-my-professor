@@ -2,9 +2,69 @@
     "reviews": [
         {
             "professor": "Prof1",
-            "review": "Great professor...",
+            "review": "Great professor, explains concepts clearly and is very approachable.",
             "subject": "Math",
             "stars": 5
+        },
+        {
+            "professor": "Prof2",
+            "review": "Engaging lectures but grading is very strict.",
+            "subject": "Physics",
+            "stars": 4
+        },
+        {
+            "professor": "Prof3",
+            "review": "Makes complex topics simple but sometimes rushes through material.",
+            "subject": "Chemistry",
+            "stars": 4
+        },
+        {
+            "professor": "Prof4",
+            "review": "Incredible professor with real-world examples that make the class interesting.",
+            "subject": "Computer Science",
+            "stars": 5
+        },
+        {
+            "professor": "Prof5",
+            "review": "Focuses too much on theory, not enough on practical applications.",
+            "subject": "Philosophy",
+            "stars": 3
+        },
+        {
+            "professor": "Prof6",
+            "review": "Very knowledgeable but difficult to approach for help outside of class.",
+            "subject": "Biology",
+            "stars": 4
+        },
+        {
+            "professor": "Prof7",
+            "review": "Class is well-structured, but grading criteria are unclear.",
+            "subject": "Economics",
+            "stars": 3
+        },
+        {
+            "professor": "Prof8",
+            "review": "Dynamic lectures with good use of visuals, but tests are challenging.",
+            "subject": "Engineering",
+            "stars": 4
+        },
+        {
+            "professor": "Prof9",
+            "review": "Presents material in a straightforward way and genuinely cares about students.",
+            "subject": "History",
+            "stars": 5
+        },
+        {
+            "professor": "Prof10",
+            "review": "Excellent at engaging students, but assignments are overwhelming.",
+            "subject": "Literature",
+            "stars": 3
+        },
+        {
+            "professor": "Prof11",
+            "review": "Very strict on attendance, but otherwise a good teacher.",
+            "subject": "Psychology",
+            "stars": 4
         }
     ]
 }
